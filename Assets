@@ -1,0 +1,87 @@
+<script>start("/Users/claudioflorio/Portfolio/MyPortfolioProject/Assets/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("AboutMe.png","AboutMe.png",0,3204421,"3.1 MB",1741870233,"13.03.25, 13:50:33");</script>
+<script>addRow("Astronaut.jpg","Astronaut.jpg",0,133844,"131 kB",1740056127,"20.02.25, 13:55:27");</script>
+<script>addRow("Astronaut2.jpg","Astronaut2.jpg",0,691756,"676 kB",1740056308,"20.02.25, 13:58:28");</script>
+<script>addRow("BarCatering.jpg","BarCatering.jpg",0,134215,"131 kB",1741696865,"11.03.25, 13:41:05");</script>
+<script>addRow("BarCocktail.jpg","BarCocktail.jpg",0,102131,"99.7 kB",1741696470,"11.03.25, 13:34:30");</script>
+<script>addRow("BarCocktail2.jpg","BarCocktail2.jpg",0,125362,"122 kB",1741696473,"11.03.25, 13:34:33");</script>
+<script>addRow("BarContact.png","BarContact.png",0,1032381,"1008 kB",1741696763,"11.03.25, 13:39:23");</script>
+<script>addRow("BarHome.png","BarHome.png",0,1211207,"1.2 MB",1741696264,"11.03.25, 13:31:04");</script>
+<script>addRow("Bluebar.png","Bluebar.png",0,728118,"711 kB",1742380936,"19.03.25, 11:42:16");</script>
+<script>addRow("Cave.JPG","Cave.JPG",0,5911088,"5.6 MB",1741605360,"10.03.25, 12:16:00");</script>
+<script>addRow("Cave.mp4","Cave.mp4",0,7855922,"7.5 MB",1738082420,"28.01.25, 17:40:20");</script>
+<script>addRow("Cavemen.JPG","Cavemen.JPG",0,5911088,"5.6 MB",1738082641,"28.01.25, 17:44:01");</script>
+<script>addRow("Ein High-End Shot von einem Barkeeper der gerade einen Blauen Cocktail auf einer Party mixt .jpg","Ein%20High-End%20Shot%20von%20einem%20Barkeeper%20der%20gerade%20einen%20Blauen%20Cocktail%20auf%20einer%20Party%20mixt%20.jpg",0,184702,"180 kB",1741697368,"11.03.25, 13:49:28");</script>
+<script>addRow("Heavensgate.JPG","Heavensgate.JPG",0,1627909,"1.6 MB",1741605360,"10.03.25, 12:16:00");</script>
+<script>addRow("Hero.jpg","Hero.jpg",0,1744266,"1.7 MB",1741605360,"10.03.25, 12:16:00");</script>
+<script>addRow("Hero2.jpg","Hero2.jpg",0,3181887,"3.0 MB",1741605360,"10.03.25, 12:16:00");</script>
+<script>addRow("IMG_1452.jpg","IMG_1452.jpg",0,208790,"204 kB",1737978681,"27.01.25, 12:51:21");</script>
+<script>addRow("Kelingking.JPG","Kelingking.JPG",0,5208364,"5.0 MB",1741605361,"10.03.25, 12:16:01");</script>
+<script>addRow("Koh Sa C 1.jpg","Koh%20Sa%20C%201.jpg",0,1149618,"1.1 MB",1741605346,"10.03.25, 12:15:46");</script>
+<script>addRow("Lion.webp","Lion.webp",0,429546,"419 kB",1738066621,"28.01.25, 13:17:01");</script>
+<script>addRow("Logo.webp","Logo.webp",0,166090,"162 kB",1738017264,"27.01.25, 23:34:24");</script>
+<script>addRow("Loop.gif","Loop.gif",0,5521217,"5.3 MB",1737980800,"27.01.25, 13:26:40");</script>
+<script>addRow("LoopGrey.mp4","LoopGrey.mp4",0,5065604,"4.8 MB",1737982339,"27.01.25, 13:52:19");</script>
+<script>addRow("LoopWhite.mp4","LoopWhite.mp4",0,4087972,"3.9 MB",1737987124,"27.01.25, 15:12:04");</script>
+<script>addRow("model.png","model.png",0,1659058,"1.6 MB",1742388390,"19.03.25, 13:46:30");</script>
+<script>addRow("Mountain.JPG","Mountain.JPG",0,743349,"726 kB",1741605394,"10.03.25, 12:16:34");</script>
+<script>addRow("PDBrot.jpg","PDBrot.jpg",0,848587,"829 kB",1740067263,"20.02.25, 17:01:03");</script>
+<script>addRow("PDCover.jpg","PDCover.jpg",0,552640,"540 kB",1740067259,"20.02.25, 17:00:59");</script>
+<script>addRow("PDKranich.jpg","PDKranich.jpg",0,266539,"260 kB",1740067254,"20.02.25, 17:00:54");</script>
+<script>addRow("PDParfüm.jpg","PDParf%C3%BCm.jpg",0,501370,"490 kB",1740067261,"20.02.25, 17:01:01");</script>
+<script>addRow("PE.png","PE.png",0,2022611,"1.9 MB",1742380827,"19.03.25, 11:40:27");</script>
+<script>addRow("PEBag2.webp","PEBag2.webp",0,446580,"436 kB",1739979797,"19.02.25, 16:43:17");</script>
+<script>addRow("PEBbag1.webp","PEBbag1.webp",0,353266,"345 kB",1739979799,"19.02.25, 16:43:19");</script>
+<script>addRow("PEBGLOOP.mp4","PEBGLOOP.mp4",0,86892677,"82.9 MB",1739979521,"19.02.25, 16:38:41");</script>
+<script>addRow("PECollage.png","PECollage.png",0,9221646,"8.8 MB",1740068539,"20.02.25, 17:22:19");</script>
+<script>addRow("PeFrog.jpg","PeFrog.jpg",0,721879,"705 kB",1740072174,"20.02.25, 18:22:54");</script>
+<script>addRow("PELandscape.jpg","PELandscape.jpg",0,747197,"730 kB",1740071152,"20.02.25, 18:05:52");</script>
+<script>addRow("PELenseMacro.webp","PELenseMacro.webp",0,419688,"410 kB",1739984489,"19.02.25, 18:01:29");</script>
+<script>addRow("PELenseStandard.webp","PELenseStandard.webp",0,290498,"284 kB",1739984512,"19.02.25, 18:01:52");</script>
+<script>addRow("PELenseTele.webp","PELenseTele.webp",0,320014,"313 kB",1739984495,"19.02.25, 18:01:35");</script>
+<script>addRow("PELenseWide.webp","PELenseWide.webp",0,520288,"508 kB",1739984507,"19.02.25, 18:01:47");</script>
+<script>addRow("PELight Fluorescend.webp","PELight%20Fluorescend.webp",0,196840,"192 kB",1739983035,"19.02.25, 17:37:15");</script>
+<script>addRow("PeLightback.webp","PeLightback.webp",0,210640,"206 kB",1739983032,"19.02.25, 17:37:12");</script>
+<script>addRow("PELightNatural.webp","PELightNatural.webp",0,155326,"152 kB",1739983130,"19.02.25, 17:38:50");</script>
+<script>addRow("PELightStudio.webp","PELightStudio.webp",0,186106,"182 kB",1739983037,"19.02.25, 17:37:17");</script>
+<script>addRow("PeMacro.jpg","PeMacro.jpg",0,2958515,"2.8 MB",1740388001,"24.02.25, 10:06:41");</script>
+<script>addRow("Pepflanze.jpg","Pepflanze.jpg",0,825769,"806 kB",1740072171,"20.02.25, 18:22:51");</script>
+<script>addRow("PERings.webp","PERings.webp",0,285012,"278 kB",1739979802,"19.02.25, 16:43:22");</script>
+<script>addRow("PERose.mp4","PERose.mp4",0,6840761,"6.5 MB",1739973631,"19.02.25, 15:00:31");</script>
+<script>addRow("PESchrift.jpg","PESchrift.jpg",0,6443560,"6.1 MB",1740388665,"24.02.25, 10:17:45");</script>
+<script>addRow("PETele.jpg","PETele.jpg",0,1677562,"1.6 MB",1740388341,"24.02.25, 10:12:21");</script>
+<script>addRow("PlazaDelfino.JPG","PlazaDelfino.JPG",0,4744503,"4.5 MB",1741605395,"10.03.25, 12:16:35");</script>
+<script>addRow("Portfolio Business.mp4","Portfolio%20Business.mp4",0,7156952,"6.8 MB",1738847538,"06.02.25, 14:12:18");</script>
+<script>addRow("Portfolio Main.mp4","Portfolio%20Main.mp4",0,6025217,"5.7 MB",1738847536,"06.02.25, 14:12:16");</script>
+<script>addRow("Portfolio Projektmanagement.mp4","Portfolio%20Projektmanagement.mp4",0,4088262,"3.9 MB",1738847542,"06.02.25, 14:12:22");</script>
+<script>addRow("Portfolio Webdesign.mp4","Portfolio%20Webdesign.mp4",0,3863843,"3.7 MB",1738847540,"06.02.25, 14:12:20");</script>
+<script>addRow("Portfolio.png","Portfolio.png",0,4358244,"4.2 MB",1741954669,"14.03.25, 13:17:49");</script>
+<script>addRow("Porträt1.png","Portra%CC%88t1.png",0,1036164,"1012 kB",1737991146,"27.01.25, 16:19:06");</script>
+<script>addRow("Promptr.png","Promptr.png",0,2191675,"2.1 MB",1741954916,"14.03.25, 13:21:56");</script>
+<script>addRow("ReelPE.mp4","ReelPE.mp4",0,95205194,"90.8 MB",1740055318,"20.02.25, 13:41:58");</script>
+<script>addRow("Savannah.mp4","Savannah.mp4",0,10568287,"10.1 MB",1738084549,"28.01.25, 18:15:49");</script>
+<script>addRow("Shop Couch.jpg","Shop%20Couch.jpg",0,52724,"51.5 kB",1741614912,"10.03.25, 14:55:12");</script>
+<script>addRow("Shop.png","Shop.png",0,874061,"854 kB",1742380761,"19.03.25, 11:39:21");</script>
+<script>addRow("ShopCouch2.jpg","ShopCouch2.jpg",0,70338,"68.7 kB",1741619903,"10.03.25, 16:18:23");</script>
+<script>addRow("ShopKüche.jpg","ShopK%C3%BCche.jpg",0,52215,"51.0 kB",1741618558,"10.03.25, 15:55:58");</script>
+<script>addRow("ShopLampe.jpg","ShopLampe.jpg",0,43841,"42.8 kB",1741617242,"10.03.25, 15:34:02");</script>
+<script>addRow("ShopLampe2.jpg","ShopLampe2.jpg",0,43933,"42.9 kB",1741618577,"10.03.25, 15:56:17");</script>
+<script>addRow("ShopSchrank.jpg","ShopSchrank.jpg",0,59302,"57.9 kB",1741618581,"10.03.25, 15:56:21");</script>
+<script>addRow("ShopSessel.jpg","ShopSessel.jpg",0,52293,"51.1 kB",1741619901,"10.03.25, 16:18:21");</script>
+<script>addRow("ShopSideboard.jpg","ShopSideboard.jpg",0,57826,"56.5 kB",1741618562,"10.03.25, 15:56:02");</script>
+<script>addRow("ShopSpiegel.jpg","ShopSpiegel.jpg",0,41763,"40.8 kB",1741618574,"10.03.25, 15:56:14");</script>
+<script>addRow("ShopStuhl.jpg","ShopStuhl.jpg",0,53016,"51.8 kB",1741618572,"10.03.25, 15:56:12");</script>
+<script>addRow("ShopTisch.jpg","ShopTisch.jpg",0,56705,"55.4 kB",1741618694,"10.03.25, 15:58:14");</script>
+<script>addRow("ShopTisch2.jpg","ShopTisch2.jpg",0,77563,"75.7 kB",1741619899,"10.03.25, 16:18:19");</script>
+<script>addRow("ShopUhr.jpg","ShopUhr.jpg",0,48716,"47.6 kB",1741617402,"10.03.25, 15:36:42");</script>
+<script>addRow("ShopUhr2.jpg","ShopUhr2.jpg",0,62066,"60.6 kB",1741619905,"10.03.25, 16:18:25");</script>
+<script>addRow("ShopVase.jpg","ShopVase.jpg",0,43432,"42.4 kB",1741617398,"10.03.25, 15:36:38");</script>
+<script>addRow("Stand up Paddle Epic.jpg","Stand%20up%20Paddle%20Epic.jpg",0,934104,"912 kB",1741605394,"10.03.25, 12:16:34");</script>
+<script>addRow("Sunset.JPG","Sunset.JPG",0,2828248,"2.7 MB",1741605395,"10.03.25, 12:16:35");</script>
+<script>addRow("Teotihuacan.JPG","Teotihuacan.JPG",0,3701022,"3.5 MB",1741605395,"10.03.25, 12:16:35");</script>
+<script>addRow("Turtle.JPG","Turtle.JPG",0,4342482,"4.1 MB",1741605395,"10.03.25, 12:16:35");</script>
+<script>addRow("Underwater.mp4","Underwater.mp4",0,6062369,"5.8 MB",1738082423,"28.01.25, 17:40:23");</script>
+<script>addRow("Waterfall1.JPG","Waterfall1.JPG",0,637949,"623 kB",1741605395,"10.03.25, 12:16:35");</script>
+<script>addRow("Waterfall2.JPG","Waterfall2.JPG",0,514792,"503 kB",1741605395,"10.03.25, 12:16:35");</script>
+<script>addRow("WPE.png","WPE.png",0,2370928,"2.3 MB",1742380862,"19.03.25, 11:41:02");</script>

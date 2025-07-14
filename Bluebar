@@ -1,0 +1,9 @@
+<script>start("/Users/claudioflorio/Portfolio/MyPortfolioProject/Bluebar/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("Blue-Booking.html","Blue-Booking.html",0,3603,"3.5 kB",1741697393,"11.03.25, 13:49:53");</script>
+<script>addRow("Blue-Catering.html","Blue-Catering.html",0,2557,"2.5 kB",1741711328,"11.03.25, 17:42:08");</script>
+<script>addRow("Blue-Contact.html","Blue-Contact.html",0,3204,"3.1 kB",1741697034,"11.03.25, 13:43:54");</script>
+<script>addRow("Blue-Menu.html","Blue-Menu.html",0,4789,"4.7 kB",1741697020,"11.03.25, 13:43:40");</script>
+<script>addRow("Blue.Css","Blue.Css",0,6753,"6.6 kB",1741711066,"11.03.25, 17:37:46");</script>
+<script>addRow("Blue.html","Blue.html",0,4185,"4.1 kB",1741703978,"11.03.25, 15:39:38");</script>
+<script>addRow("Blue.js","Blue.js",0,267,"267 B",1741695098,"11.03.25, 13:11:38");</script>

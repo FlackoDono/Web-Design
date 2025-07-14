@@ -1,0 +1,5 @@
+<script>start("/Users/claudioflorio/Portfolio/MyPortfolioProject/Homepage/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("index.html","index.html",0,3214,"3.1 kB",1742302121,"18.03.25, 13:48:41");</script>
+<script>addRow("script.js","script.js",0,1338,"1.3 kB",1737982302,"27.01.25, 13:51:42");</script>
+<script>addRow("style.css","style.css",0,4912,"4.8 kB",1744282179,"10.04.25, 12:49:39");</script>

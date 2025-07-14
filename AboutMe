@@ -1,0 +1,6 @@
+<script>start("/Users/claudioflorio/Portfolio/MyPortfolioProject/AboutMe/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("fonts","fonts",1,288,"288 B",1741605290,"10.03.25, 12:14:50");</script>
+<script>addRow("claudio.css","claudio.css",0,10095,"9.9 kB",1742390789,"19.03.25, 14:26:29");</script>
+<script>addRow("claudio.html","claudio.html",0,10024,"9.8 kB",1744279156,"10.04.25, 11:59:16");</script>
+<script>addRow("claudio.js","claudio.js",0,5464,"5.3 kB",1744279043,"10.04.25, 11:57:23");</script>
